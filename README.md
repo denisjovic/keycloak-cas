@@ -11,7 +11,7 @@ This is a docker-compose that will start a development environment that will hav
 
 First clone the repository
 
-`git clone https://github.com/JaouherK/keycloak-privacyIdea.git`
+`git clone https://github.com/denisjovic/keycloak-cas.git`
 
 Run it with
 
